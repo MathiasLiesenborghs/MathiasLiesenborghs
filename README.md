@@ -1,5 +1,7 @@
 ## Hi there 👋
 It Just Works
+Or is it ?
+By Eloi Stree
 
 ![image](https://github.com/user-attachments/assets/11095b42-3b78-4b57-80be-c76469808183)
 
