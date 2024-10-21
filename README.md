@@ -1,5 +1,8 @@
 ## Hi there 👋
 It Just Works
+
+![image](https://github.com/user-attachments/assets/11095b42-3b78-4b57-80be-c76469808183)
+
 <!--
 **MathiasLiesenborghs/MathiasLiesenborghs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
